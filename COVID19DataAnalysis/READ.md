@@ -16,6 +16,5 @@
 
 <br> url = 'https://www.mohfw.gov.in/' </br> 
 and let's procees futher now.
->>>>>>> 52a8c715fffeeba0df8817acf09fe8853d3d2e66
 
 
