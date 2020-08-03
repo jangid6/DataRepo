@@ -2,9 +2,7 @@
 
 ### Data Analysis Using Python,Pandas,Selenium
 
-1. First Thing is to to have a realiable data source which is free, so we are pulling our data from 
-<<<<<<< HEAD
-website 
+1. First Thing is to to have a realiable data source which is free, so we are pulling our data from website
 <ul> 
     step 1 
     <li>go to url = 'https://www.mohfw.gov.in/'</li>
@@ -15,10 +13,8 @@ website
     <li>from selenium import webdriver</li>
     <li>from datetime import datetime</li>
 </ul>
-=======
-webisite 
+
 <br> url = 'https://www.mohfw.gov.in/' </br> 
 and let's procees futher now.
->>>>>>> 52a8c715fffeeba0df8817acf09fe8853d3d2e66
 
 
