@@ -1,0 +1,73 @@
+# "RazorPay Python Api Script"
+#https://razorpay.com/docs/api/#api-authentication
+#https://razorpay.com/docs/api/x/payouts/#fetch-all-payouts
+#https://www.postman.com/razorpaydev/workspace/razorpay-public-workspace/folder/12492020-fcd32a4a-0c53-41a7-a879-d771de7e2804
+
+import requests
+import json
+import pandas as pd
+import datetime
+accountNo = "YourAccountNo"
+status = "processed" #if you want other statues as well then , comment this line
+YourDsiredPurpose = "YourDesiredpurpose"
+fromthisUnixTime = None
+tothisUnixTime = None
+count = 100 #using Count with Skip to implement the pagination 
+skipNo = 0
+LoopExit = True
+appendFlag = True
+finalRpXDataFrame = False
+print("Checking Condition for loop for historic data")
+while LoopExit:
+    url = "https://api.razorpay.com/v1/payouts?account_number={accountNo}&\
+    &status=processed&purpose={YourDsiredPurpose}&count=100"
+    if fromthisUnixTime is not None:
+        url = url + "&from={fromUT}".format(fromUT = fromthisUnixTime)
+    elif tothisUnixTime is not None:
+        url = url + "&from={toUT}".format(toUT = tothisUnixTime)
+    elif skipNo is not None:
+        url = url + "&skip={skipNumber}".format(skipNumber = skipNo)
+    payload = ""
+    headers = {
+      'Content-Type': 'application/json',
+      'Authorization': 'Basic {base64token}'
+    }
+    #base64token 
+    #All Razorpay APIs are authenticated using Basic Auth. Basic auth requires the following:
+    #[YOUR_KEY_ID]
+    #[YOUR_KEY_SECRET]
+    #Basic auth expects an Authorization header for each request in the Basic base64token format. Here, base64token is a base64 encoded string of YOUR_KEY_ID:YOUR_KEY_SECRET.
+    response = requests.request("GET", url, headers=headers, data=payload)
+    respData = response.json()
+    listofDicts = None
+    mydataframe = None
+    print("Loop will exit when API HIT returns Count 0 , Current count is : ",respData.get('count'))
+    if respData.get('count') != 0:
+        listofDicts = respData.get('items',False)
+        if listofDicts:
+            mydataframe = pd.DataFrame(listofDicts)
+            mydataframe['created_at'] = mydataframe['created_at'].apply(lambda x : datetime.datetime.fromtimestamp(x))
+            mydataframe['narration'] = mydataframe['narration'].apply(lambda x : x.replace(" ","#"))
+            mydataframe['createdMonth'] = mydataframe['created_at'].apply(lambda x : x.strftime("%B"))
+            mydataframe['createdWeekNo'] = mydataframe['created_at'].apply(lambda x : x.isocalendar().week)
+            mydataframe
+            if appendFlag:
+                finalRpXDataFrame = mydataframe
+                appendFlag = False
+            else:
+                finalRpXDataFrame = pd.concat([finalRpXDataFrame,mydataframe],ignore_index = True)
+            skipNo += 100
+            print("Total Records fetched using script : ",skipNo)
+            print("\n")
+    else:
+        LoopExit = False
+if not finalRpXDataFrame.empty:
+    try:
+        filename = "MyRazorpayXApiScript"
+#         finalRpXDataFrame.sort_values(by = ['created_at'],ascending = True)
+        finalRpXDataFrame.to_excel(f"{filename}.xlsx",sheet_name='RazorPayDump',index=False)
+        print(f"Voila, Successfully updated into file {filename} Sheet using PyScript !!")
+        print(f"Total Records Written : {len(finalRpXDataFrame)}")
+    except Exception as E:
+        print("There is an issue occured while writing into file, Error occured is :",E)
+finalRpXDataFrame.head()
