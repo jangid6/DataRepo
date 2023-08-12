@@ -14,7 +14,7 @@
 
 <h3 align="left"> Coding Languages </h3>
 <p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src=https://cdn-icons-png.flaticon.com/512/1199/1199128.png" alt="pandas" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left"> Cloud Platforms &  Data-Warehouse  </h3>
@@ -29,8 +29,7 @@
 
 <h3 align="left">Business Intelligence Tools : </h3>
 <p align="left"> 
- <a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer"> <img src="https://png.pngitem.com/pimgs/s/251-2515665_tableau-certification-online-training-course-tableau-logo-png.png" alt="seaborn" width="40" height="40"/> 
- Tableau </a> 
+<a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer"> <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer"> <img src="https://scope.mt/wp-content/uploads/2022/03/PowerBI_Vendor_Product_Logo.svg" alt="seaborn" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jangid6&show_icons=true&locale=en&layout=compact" alt="jangid6" /></p>
@@ -38,5 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jangid6&show_icons=true&locale=en" alt="jangid6" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jangid6&" alt="jangid6" /></p>
 
-<h1 align='center'><i>✨ Stay awesome! ✨</i></h1>
+<h1 align='center'><i>✨ Killing Analysis Pralysis! ✨</i></h1>
 
