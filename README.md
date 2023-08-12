@@ -1,10 +1,11 @@
-<h1 align="center"> Hi 👋, I'm Mohan Sharma</h1>
-<h3 align="center">Expertise in Business Insight Reporting & Strategic Planning using Python, SQL, Tableau and Power BI. Result-oriented IT professional with over 4+ years of global experience in stakeholder management, gathering business and technical requirements into actionable solutions.</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center"> Hi 👋, I'm Mohan Sharma </h1>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohansharma-06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohansharma-06/" height="30" width="40" /></a>
 </p>
+<h3 align="center">Expertise in Business Insight Reporting & Strategic Planning using Python, SQL, Tableau and Power BI. Result-oriented IT professional with over 4+ years of global experience in stakeholder management, gathering business and technical requirements into actionable solutions.</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jangid6&label=Profile%20views&color=0e75b6&style=flat" alt="jangid6" /> </p>
 
@@ -29,7 +30,7 @@
 
 <h3 align="left">Business Intelligence Tools : </h3>
 <p align="left"> 
-<a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer"> <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer"> <img src="https://scope.mt/wp-content/uploads/2022/03/PowerBI_Vendor_Product_Logo.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer"> <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer"> <img src="https://www.core-origins.com/wp-content/uploads/2020/08/Power-BI.png" alt="seaborn" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jangid6&show_icons=true&locale=en&layout=compact" alt="jangid6" /></p>
