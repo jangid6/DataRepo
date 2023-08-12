@@ -19,4 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jangid6&show_icons=true&locale=en" alt="jangid6" /></p>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prags21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1 align='center'><i>✨ Stay awesome! ✨</i></h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jangid6&" alt="jangid6" /></p>
