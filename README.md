@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohan Sharma</h1>
+<h1 align="center"> Hi 👋, I'm Mohan Sharma</h1>
 <h3 align="center">Expertise in Business Insight Reporting & Strategic Planning using Python, SQL, Tableau and Power BI. Result-oriented IT professional with over 4+ years of global experience in stakeholder management, gathering business and technical requirements into actionable solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
