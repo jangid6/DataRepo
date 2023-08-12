@@ -2,7 +2,7 @@
 <h1> Hi 👋, I'm Mohan Sharma  </h1>
 
 <h3 >Connect with me:</h3>
-<p align="center">
+<p align="center"> Linkedin : 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohansharma-06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohansharma-06/" height="30" width="40" /></a>
 </p>
 <h3 align="center">Expertise in Business Insight Reporting & Strategic Planning using Python, SQL, Tableau and Power BI. Result-oriented IT professional with over 4+ years of global experience in stakeholder management, gathering business and technical requirements into actionable solutions.</h3>
