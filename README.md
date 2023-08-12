@@ -29,7 +29,7 @@
 
 <h3 align="left">Business Intelligence Tools : </h3>
 <p align="left"> 
- <a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer"> <img src="[https://seaborn.pydata.org/_images/logo-mark-lightbg.svg](https://png.pngitem.com/pimgs/s/251-2515665_tableau-certification-online-training-course-tableau-logo-png.png)" alt="seaborn" width="40" height="40"/> 
+ <a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer"> <img src="https://png.pngitem.com/pimgs/s/251-2515665_tableau-certification-online-training-course-tableau-logo-png.png" alt="seaborn" width="40" height="40"/> 
  Tableau </a> 
 </p>
 
