@@ -18,6 +18,8 @@
 
 - 🔭 I’m currently working on [Customer Purchase Behavior using Transformer](https://github.com/jangid6/CustomerSegmentationBigData/)
 
+Other Projects 
+- Customer Segmentation Big Data Analytics using PySpark - Churn Prediction, Revenue Forcasting.[GithubRepo](https://github.com/jangid6/CustomerSegmentationBigData)
 
 
 <h3 align="left"> Coding Languages </h3>
