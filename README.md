@@ -10,6 +10,7 @@ I self-taught python language from scratch during college days and developed pro
 Projects List
 
 - [Customer Segmenation Analytics using Pyspark implmentation - Azure SQL - PYSpark - Predicting Analytics](https://github.com/jangid6/CustomerSegmentationBigData/)
+- [Email - Classification using Bert Traansformer Project](https://github.com/Akawi85/Email-classification-with-bert)
 
-Check Out My Portfolio Repo: https://github.com/jangid6/MohanBIAnalystPortfolio
+<b> Check Out My Portfolio Repo: https://github.com/jangid6/MohanBIAnalystPortfolio </b>
 
