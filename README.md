@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohan Sharma</h1>
 <h3 align="center">Expertise in Business Insight Reporting & Strategic Planning using Python, SQL, Tableau and Power BI. Result-oriented IT professional with over 4+ years of global experience in stakeholder management, gathering business and technical requirements into actionable solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jangid6&label=Profile%20views&color=0e75b6&style=flat" alt="jangid6" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jangid6" alt="jangid6" /></a> </p>
-
-- 🔭 I’m currently working on [Customer Purchase Behavior using Transformer](https://github.com/jangid6/CustomerSegmentationBigData/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohansharma-06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohansharma-06/" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jangid6&label=Profile%20views&color=0e75b6&style=flat" alt="jangid6" /> </p>
+
+- 🔭 I’m currently working on [Customer Purchase Behavior using Transformer](https://github.com/jangid6/CustomerSegmentationBigData/)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
