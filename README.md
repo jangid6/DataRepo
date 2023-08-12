@@ -7,6 +7,9 @@ Despite being a medicine student in highschool, I have opted for engineering in 
 
 I self-taught python language from scratch during college days and developed projects, practising OOPS and analytics skills.
 
+Projects List
+
+- [Customer Segmenation Analytics using Pyspark implmentation - Azure SQL - PYSpark - Predicting Analytics](https://github.com/jangid6/CustomerSegmentationBigData/)
 
 Check Out My Portfolio Repo: https://github.com/jangid6/MohanBIAnalystPortfolio
 
