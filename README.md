@@ -7,3 +7,6 @@ Despite being a medicine student in highschool, I have opted for engineering in 
 
 I self-taught python language from scratch during college days and developed projects, practising OOPS and analytics skills.
 
+
+Check Out My Portfolio Repo: https://github.com/jangid6/MohanBIAnalystPortfolio
+
