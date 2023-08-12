@@ -1,5 +1,5 @@
 <div align="center"> 
-<h1> Hi 👋, I'm Mohan Sharma </h1>
+<h1> Hi, I'm Mohan Sharma </h1>
 
 <h2> Check Out Portfolio: <a href="https://jangid6.github.io/MohanBIAnalystPortfolio/" target="new"><img align="center" src="https://www.freepnglogos.com/uploads/logo-internet-png/logo-internet-chemiphase-updated-website-goes-live-chemiphase-ltd-12.png" alt="https://jangid6.github.io/MohanBIAnalystPortfolio/" height="30" width="40" /></a> Hire Me <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohansharma-06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohansharma-06/" height="30" width="40" /></a>
 </h2>
