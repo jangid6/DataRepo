@@ -1,8 +1,10 @@
-<div align="center"> 
+<div align="lefft"> 
 <h1> Hi, I'm Mohan Sharma </h1>
 
-<h3 align="center">Expertise in Business Insight Reporting & Strategic Planning using Python, SQL, Tableau and Power BI. Result-oriented IT professional with over 4+ years of global experience in stakeholder management, gathering business and technical requirements into actionable solutions.</h3>
- 
+<lr><h2>Portfolio: <a href="https://jangid6.github.io/MohanBIAnalystPortfolio/" target="new"><img align="center" src="https://www.freepnglogos.com/uploads/logo-internet-png/logo-internet-chemiphase-updated-website-goes-live-chemiphase-ltd-12.png" alt="https://jangid6.github.io/MohanBIAnalystPortfolio/" height="30" width="40" /></a> Hire Me <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohansharma-06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohansharma-06/" height="30" width="40" /></a> Email <a href="mailto:mohanjangid6@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" alt="mailto:mohanjangid6@gmail.com" height="30" width="40" /></a>
+</h2>
+
+<h3 align="lefft">Expertise in Business Insight Reporting & Strategic Planning using Python, SQL, Tableau and Power BI. Result-oriented IT professional with over 4+ years of global experience in stakeholder management, gathering business and technical requirements into actionable solutions.</h3>
 </div>
 
 
@@ -13,7 +15,7 @@
 Work In Progress
 - 🔭Customer Purchase Behavior using Transformer[[GithubRepo](https://github.com/jangid6/CustomerSegmentationBigData/)]
 
-Other Projects 
+Retail - Case Study Project  
 - Customer Segmentation Big Data Analytics using PySpark - Churn Prediction, Revenue Forcasting [[GithubRepo](https://github.com/jangid6/CustomerSegmentationBigData)]
 
 
@@ -42,8 +44,6 @@ Other Projects
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jangid6&show_icons=true&locale=en" alt="jangid6" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jangid6&" alt="jangid6" /></p>
 
-<h2> Check Out Portfolio: <a href="https://jangid6.github.io/MohanBIAnalystPortfolio/" target="new"><img align="center" src="https://www.freepnglogos.com/uploads/logo-internet-png/logo-internet-chemiphase-updated-website-goes-live-chemiphase-ltd-12.png" alt="https://jangid6.github.io/MohanBIAnalystPortfolio/" height="30" width="40" /></a> Hire Me <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohansharma-06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohansharma-06/" height="30" width="40" /></a> Email <a href="mailto:mohanjangid6@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" alt="mailto:mohanjangid6@gmail.com" height="30" width="40" /></a>
-</h2>
 
 <h1 align='center'><i>✨ Killing Analysis Pralysis! ✨</i></h1>
 
