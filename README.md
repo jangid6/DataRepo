@@ -16,7 +16,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jangid6&label=Profile%20views&color=0e75b6&style=flat" alt="jangid6" /> </p>
 
-- 🔭 I’m currently working on [Customer Purchase Behavior using Transformer](https://github.com/jangid6/CustomerSegmentationBigData/)
+Work In Progress
+- <h2>🔭 [Customer Purchase Behavior using Transformer](https://github.com/jangid6/CustomerSegmentationBigData/) </h2>
 
 Other Projects 
 - Customer Segmentation Big Data Analytics using PySpark - Churn Prediction, Revenue Forcasting [[GithubRepo](https://github.com/jangid6/CustomerSegmentationBigData)]
