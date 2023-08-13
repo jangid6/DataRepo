@@ -12,10 +12,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jangid6&label=Profile%20views&color=0e75b6&style=flat" alt="jangid6" /> </p>
 
-Work In Progress
-- 🔭Customer Purchase Behavior using Transformer[[GithubRepo](https://github.com/jangid6/CustomerSegmentationBigData/)]
+🔭 Work In Progress Projects
+- Customer Purchase Behavior using Transformer [[GithubRepo](https://github.com/jangid6/CustomerSegmentationBigData/)]
+  - Articles :
+     - [Introduction](https://www.linkedin.com/posts/mohansharma-06_im-in-the-middle-of-writing-my-first-journal-activity-7073023859246911488-njP_?utm_source=share&utm_medium=member_desktop)
+     - [Business Requirement](https://www.linkedin.com/posts/mohansharma-06_cohort-analytics-a-business-intelligence-activity-7073605747497934848-nLgK?utm_source=share&utm_medium=member_desktop)
 
-Retail - Case Study Project  
+Retail - Case Study Projects 
 - Customer Segmentation Big Data Analytics using PySpark - Churn Prediction, Revenue Forcasting [[GithubRepo](https://github.com/jangid6/CustomerSegmentationBigData)]
 
 
