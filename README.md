@@ -1,8 +1,58 @@
 <div align="lefft"> 
-<h1> Hi, I'm Mohan Sharma </h1>
 
-<lr><h2>Portfolio: <a href="https://jangid6.github.io/MohanBIAnalystPortfolio/" target="new"><img align="center" src="https://www.freepnglogos.com/uploads/logo-internet-png/logo-internet-chemiphase-updated-website-goes-live-chemiphase-ltd-12.png" alt="https://jangid6.github.io/MohanBIAnalystPortfolio/" height="30" width="40" /></a> Hire Me <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohansharma-06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohansharma-06/" height="30" width="40" /></a> Email <a href="mailto:mohanjangid6@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" alt="mailto:mohanjangid6@gmail.com" height="30" width="40" /></a>
-</h2>
+##  Hi, I'm Mohan Sharma
+
+I'm a passionate **Data Professional** with over 6 years of experience in leveraging data to drive business decisions across industries like **Retail Energy**, **FinTech**, **Digital Banking**, and **eCommerce**. I specialize in transforming complex datasets into actionable insights using advanced analytics, reporting tools, and modern data platforms.
+
+---
+
+## 🛠️ Skills & Expertise
+
+- **Data Analytics & Visualization**: Power BI, Microsoft Fabric, Tableau  
+- **Programming & Querying**: Python, SQL, R  
+- **Data Engineering**: Data Warehousing, Data Modeling, ETL Pipelines  
+- **AI & Machine Learning**: Predictive Modeling, ML-driven Applications  
+- **Business Domains**: Customer Acquisition, Credit Strategy, Demand Forecasting, Financial Modeling, Customer Experience (CSAT, NPS), Marketing Analytics  
+
+---
+
+## 🌍 Industry Impact
+
+- **Retail Energy**: Delivered data-driven strategies for customer acquisition and demand forecasting, optimizing operational efficiency.  
+- **FinTech & Digital Banking**: Built reporting solutions to enhance credit strategies and financial performance.  
+- **eCommerce**: Drove revenue growth through actionable insights, improving customer experiences and profitability.  
+
+---
+
+## 🚀 Current Role
+
+**Data Analyst at Redfish Systems (Acquired by OutF)**  
+*Feb 2025 – Present | United Kingdom*  
+- Developing BI and AI solutions for energy suppliers, focusing on data-driven decision-making.  
+- Utilizing Microsoft Fabric and Power BI to create scalable reporting frameworks.  
+
+---
+
+## 🔗 Connect with Me
+
+- **Portfolio**: [MohanBI Analyst Portfolio](https://jangid6.github.io/MohanBIAnalystPortfolio/)  
+  <a href="https://jangid6.github.io/MohanBIAnalystPortfolio/" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-internet-png/logo-internet-chemiphase-updated-website-goes-live-chemiphase-ltd-12.png" alt="Portfolio" height="30" width="40" /></a>  
+
+- **LinkedIn**: [Mohan Sharma](https://www.linkedin.com/in/mohansharma-06/)  
+  <a href="https://www.linkedin.com/in/mohansharma-06/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>  
+
+- **Email**: [mohanjangid6@gmail.com](mailto:mohanjangid6@gmail.com)  
+  <a href="mailto:mohanjangid6@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" alt="Email" height="30" width="40" /></a>  
+
+---
+
+## 📊 Why Work with Me?
+
+- **Data-Driven**: I translate raw data into clear, actionable recommendations.  
+- **Cross-Industry Expertise**: Proven success in diverse sectors, from energy to financial services.  
+- **Customer-Obsessed**: Focused on delivering exceptional insights to enhance customer experiences and business outcomes.  
+
+Let's collaborate to turn data into impact! 🚀
 
 <h3 align="lefft">Expertise in Business Insight Reporting & Strategic Planning using Python, SQL, Tableau and Power BI. Result-oriented IT professional with over 4+ years of global experience in stakeholder management, gathering business and technical requirements into actionable solutions.</h3>
 </div>
