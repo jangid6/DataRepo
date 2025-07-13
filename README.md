@@ -4,6 +4,10 @@
 
 I'm a passionate **Data Professional** with over 6 years of experience in leveraging data to drive business decisions across industries like **Retail Energy**, **FinTech**, **Digital Banking**, and **eCommerce**. I specialize in transforming complex datasets into actionable insights using advanced analytics, reporting tools, and modern data platforms.
 
+-- Expertise in Business Intelligence and Insight Reporting which shapes the business strategic informed descion and opertional performance tracking using Python, SQL, Tableau and Power BI. 
+
+-- Result-oriented IT professional with over 4+ years of global experience in leading data-team and stakeholder management, gathering business and technical requirements into actionable solutions
+
 ---
 
 ## 🛠️ Skills & Expertise
@@ -16,7 +20,7 @@ I'm a passionate **Data Professional** with over 6 years of experience in levera
 
 ---
 
-## 🌍 Industry Impact
+## Industry Impact
 
 - **Retail Energy**: Delivered data-driven strategies for customer acquisition and demand forecasting, optimizing operational efficiency.  
 - **FinTech & Digital Banking**: Built reporting solutions to enhance credit strategies and financial performance.  
@@ -24,7 +28,7 @@ I'm a passionate **Data Professional** with over 6 years of experience in levera
 
 ---
 
-## 🚀 Current Role
+##  Current Role
 
 **Data Analyst at Redfish Systems (Acquired by OutF)**  
 *Feb 2025 – Present | United Kingdom*  
@@ -46,18 +50,13 @@ I'm a passionate **Data Professional** with over 6 years of experience in levera
 
 ---
 
-## 📊 Why Work with Me?
+## Why Work with Me?
 
 - **Data-Driven**: I translate raw data into clear, actionable recommendations.  
 - **Cross-Industry Expertise**: Proven success in diverse sectors, from energy to financial services.  
 - **Customer-Obsessed**: Focused on delivering exceptional insights to enhance customer experiences and business outcomes.  
 
-Let's collaborate to turn data into impact! 🚀
-
-<h3 align="lefft">Expertise in Business Insight Reporting & Strategic Planning using Python, SQL, Tableau and Power BI. Result-oriented IT professional with over 4+ years of global experience in stakeholder management, gathering business and technical requirements into actionable solutions.</h3>
-</div>
-
-
+Let's collaborate to turn data into impact! 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jangid6&label=Profile%20views&color=0e75b6&style=flat" alt="jangid6" /> </p>
